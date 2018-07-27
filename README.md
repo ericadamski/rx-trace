@@ -14,7 +14,7 @@ function trace( label: string, log: Function = console.log ): (source$: Observab
 import { from } from 'rxjs';
 import { map, filter } from 'rxjs/operators';
 
-import trace from 'rx-trace';
+import trace from 'rxtrace';
 
 from([1, 2, 3])
   .pipe(
