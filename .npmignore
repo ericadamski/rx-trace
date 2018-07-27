@@ -1,6 +1,8 @@
 __tests__
 .gitignore
 .prettierrc
-*.ts
 jest.config.js
 tsconfig.json
+coverage
+node_modules
+*.log
