@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`trace should log output with the given label 1`] = `
+Array [
+  Array [
+    "label",
+    1,
+  ],
+]
+`;
